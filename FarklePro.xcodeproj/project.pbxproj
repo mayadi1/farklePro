@@ -15,6 +15,7 @@
 		18B112AD1D04163800F6B99A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B112AB1D04163800F6B99A /* LaunchScreen.storyboard */; };
 		18B112B81D04163800F6B99A /* FarkleProTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B112B71D04163800F6B99A /* FarkleProTests.m */; };
 		18B112C31D04163800F6B99A /* FarkleProUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B112C21D04163800F6B99A /* FarkleProUITests.m */; };
+		18B112D21D0416BD00F6B99A /* DieLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B112D11D0416BD00F6B99A /* DieLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		18B112BE1D04163800F6B99A /* FarkleProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FarkleProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18B112C21D04163800F6B99A /* FarkleProUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FarkleProUITests.m; sourceTree = "<group>"; };
 		18B112C41D04163800F6B99A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B112D01D0416BD00F6B99A /* DieLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DieLabel.h; sourceTree = "<group>"; };
+		18B112D11D0416BD00F6B99A /* DieLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DieLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				18B112A31D04163800F6B99A /* ViewController.h */,
 				18B112A41D04163800F6B99A /* ViewController.m */,
 				18B112A61D04163800F6B99A /* Main.storyboard */,
+				18B112D01D0416BD00F6B99A /* DieLabel.h */,
+				18B112D11D0416BD00F6B99A /* DieLabel.m */,
 				18B112A91D04163800F6B99A /* Assets.xcassets */,
 				18B112AB1D04163800F6B99A /* LaunchScreen.storyboard */,
 				18B112AE1D04163800F6B99A /* Info.plist */,
@@ -273,6 +278,7 @@
 				18B112A51D04163800F6B99A /* ViewController.m in Sources */,
 				18B112A21D04163800F6B99A /* AppDelegate.m in Sources */,
 				18B1129F1D04163800F6B99A /* main.m in Sources */,
+				18B112D21D0416BD00F6B99A /* DieLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
